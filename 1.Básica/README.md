@@ -16,7 +16,7 @@ Universo Santa Tecla
 
 ## Requisitos  
 
-| [Wiki](https://en.wikipedia.org/wiki/Klondike_(solitaire)) - [Youtube](https://www.youtube.com/watch?v=_kMC7YNbsmg)<br/> * _Funcionalidad: **Básica**_<br/>  * _Interfaz: **Texto**_<br/>  * _Distribución: **Standalone**_<br/>  * _Persistencia: **No**_<br/> | ![Klondike](./docs/images/Klondike.jpg) | 
+| [Wiki](https://en.wikipedia.org/wiki/Klondike_(solitaire)) - [Youtube](https://www.youtube.com/watch?v=_kMC7YNbsmg)<br/> * _Funcionalidad: **Básica**_<br/>  * _Interfaz: **Texto**_<br/>  * _Distribución: **Standalone**_<br/>  * _Persistencia: **No**_<br/> | ![Klondike](./docs/images/klondike.jpg) | 
 | :------- | :------: |  
 
 ## Vista de Casos de Uso  
