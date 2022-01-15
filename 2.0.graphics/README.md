@@ -21,7 +21,7 @@ Universo Santa Tecla
 
 ### requirements  
 
-| [Wiki](https://es.wikipedia.org/wiki/Solitario_de_cartas) - [Youtube](https://www.youtube.com/watch?v=yjgQXcFVBQY)<br/> * _Funcionalidad: **Básica**_<br/>  * _Interfaz: **Gráfica y Texto**_<br/>  * _Distribución: **Standalone**_<br/>  * _Persistencia: **No**_<br/> | ![klondike](./docs/images/klondike.jpg) | 
+| [Wiki](https://es.wikipedia.org/wiki/Solitario_de_cartas) - [Youtube](https://www.youtube.com/watch?v=yjgQXcFVBQY)<br/> * _Funcionalidad: **Básica**_<br/>  * _Interfaz: **Gráfica y Texto**_<br/>  * _Distribución: **Standalone**_<br/>  * _Persistencia: **No**_<br/> | ![klondike](./docs/images/klondike.png) | 
 | :------- | :------: |  
 
 ### actorsUseCaseDiagram 
