@@ -2,30 +2,49 @@
 Universo Santa Tecla  
 [uSantaTecla@gmail.com](mailto:uSantaTecla@gmail.com)  
 
-**Índice**
+## index
 
-1. [Modelo del dominio](#modelo-del-dominio)  
-1.1. [Vocabulario](#vocabulario)  
-1.2. [Estado Final Ganador](#estado-final-ganador)  
-1.3. [Secuencia Proponer Combinacion](#secuencia-proponer-combinacion)  
-2. [Versiones](#versiones)
+* [domainModel](#domainModel)  
+    * [vocabulary](#vocabulary)  
+    * [initialState](#initialState)  
+    * [finalState](#finalState)
+    * [instructions](#instructions)  
+* [versions](#versions)
+    * [0.0.dataLanguage](./0.0.dataLanguages/README.md)
+    * [0.0.publicationLanguage](./0.0.publicationLanguage/README.md)
+    * [1.0.basic](./1.0.basic/README.md)
+    * [1.1.machine](./1.1.machine/README.md)
+    * [2.0.graphics](./2.0.graphics/README.md)
+    * [3.0.undoRedo](./3.0.undoRedo/README.md)
+    * [4.0.distributed](./4.0.distributed/README.md)
+    * [5.0.files](./5.0.files/README.md)
+    * [6.0.bbdd](./6.0.bbdd/README.md)
 
-## Modelo del dominio  
+## domainModel  
   
-![Mastermind](docs/images/mastermind.jpg)  
-  
-### Vocabulario  
+![klondike](./docs/images/klondike.png)  
 
-![Vocabulario](./docs/diagrams/out/mastermind_domain_model/mastermind_domain_model.svg)  
-  
-### Estado final ganador  
-  
-![Estado Final Ganador](./docs/diagrams/out/mastermind_domain_model/mastermind_final_state_winner.svg)  
+[WIKI](https://es.wikipedia.org/wiki/Solitario_de_cartas)
 
-### Secuencia proponer combinación  
+[Youtube](https://www.youtube.com/watch?v=yjgQXcFVBQY)
+### vocabulary
 
-![Secuencia Proponer Combinacion](./docs/diagrams/out/mastermind_domain_model/mastermind_propose_secuence.svg)  
+![Vocabulario]()  
   
-## Versiones  
+### initialState  
   
-![Versiones](./docs/diagrams/out/versiones/versiones.svg)  
+![Estado_inicial]()  
+  
+### finalState 
+
+![Estado_final]()  
+  
+### instructions  
+  
+![Instrucciones]()  
+  
+![Instrucciones]()  
+  
+## versions  
+  
+![versiones]()  
