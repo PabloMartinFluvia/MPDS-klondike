@@ -1,0 +1,27 @@
+- origin: stock
+  target: waste
+  cards:
+    - rank: 3
+      suite: diamonds
+      color: red
+- origin: waste
+  target: tableau3
+  cards:
+    - rank: 3
+      suite: diamonds
+      color: red
+- origin: tableau3
+  target: tableau4
+  cards:
+    - rank: 4
+      suite: spades
+      color: black
+    - rank: 3
+      suite: diamonds
+      color: red
+- origin: tableau3
+  target: foundation1
+  cards:
+    - rank: 1
+      suite: hearts
+      color: red

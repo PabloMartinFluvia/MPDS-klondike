@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<movements>
+    <move origin="stock" target="waste">
+        <card rank="3" suite="diamonds" color="red"/>
+    </move>
+    <move origin="waste" target="tableau3">
+        <card rank="3" suite="diamonds" color="red"/>
+    </move>
+    <move origin="tableau3" target="tableau4">
+        <card rank="4" suite="spades" color="black"/>
+        <card rank="3" suite="diamonds" color="red"/>
+    </move>
+    <move origin="tableau3" target="foundation1">
+        <card rank="As" suite="hearts" color="red"/>
+    </move>
+</movements>
