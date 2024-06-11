@@ -5,10 +5,12 @@ Universo Santa Tecla
 ## index
 
 * [domainModel](#domainModel)  
-    * [vocabulary](#vocabulary)  
+    * [vocabulary](#vocabulary) 
+    * [vocabulary events](#vocabularyEvents)
     * [initialState](#initialState)  
     * [finalState](#finalState)
     * [instructions](#instructions)  
+    * [card lifecycle](#card-lifecycle)
 * [versions](#versions)
     * [0.0.dataLanguage](./0.0.dataLanguages/README.md)
     * [0.0.publicationLanguage](./0.0.publicationLanguage/README.md)
@@ -29,21 +31,38 @@ Universo Santa Tecla
 [Youtube](https://www.youtube.com/watch?v=yjgQXcFVBQY)
 ### vocabulary
 
-![Vocabulario]()  
+![Vocabulario](./docs/diagrams/out/overview/overview.svg)  
+
+### vocabularyEvents
+
+![Vocabulario_eventos](./docs/diagrams/out/overview/overviewEvents.svg)
   
 ### initialState  
   
-![Estado_inicial]()  
+![Estado_inicial](./docs/diagrams/out/states/initialState.svg)  
   
 ### finalState 
 
-![Estado_final]()  
+![Estado_final](./docs/diagrams/out/states/finalState.svg)  
   
-### instructions  
+### instructions
   
-![Instrucciones]()  
+![Instrucciones](./docs/diagrams/out/instructions/instructions.svg)
+
+- Waste to stock movement
+  ![wasteToStock](./docs/diagrams/out/instructions/wasteToStockMovement.svg)
+
+- One card movement
+  ![oneCardMovement](./docs/diagrams/out/instructions/oneCardMovement.svg)
+
+- Many cards movement from tableau
+  ![manyCardsMovementFromTableau](./docs/diagrams/out/instructions/fomTableauManyCardsMovement.svg)
+
+### card lifecycle
+
+![cardLifecycle](./docs/diagrams/out/instructions/cardLifecycle.svg)
   
-![Instrucciones]()  
+
   
 ## versions  
   
